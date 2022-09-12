@@ -59,9 +59,6 @@
 <br>
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chaoshero5567&theme=react-dark&hide_border=true&area=true)  </p>
-
-
 
 
 
@@ -87,5 +84,5 @@
 </p>
 <br>
   <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Chaoshero5567&theme=react-dark&hide_border=true&area=true" alt="snake"></center>
 </p>
