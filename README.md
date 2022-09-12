@@ -23,7 +23,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Chaoshero5567&theme=nightowl&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zskillcode&theme=nightowl&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaoshero5567&theme=nightowl&hide_border=true" />
 
 
   
