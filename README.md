@@ -1,6 +1,6 @@
 ### 💻 &nbsp;About Me 
 
-- 🎉 &nbsp; February 7, 2007 (17 y/o)
+- 🎉 &nbsp; February 7, 2007 (18 y/o)
 - 🏠 &nbsp; Living in Germany 
 
 <br><br>
