@@ -26,7 +26,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chaoshero5567&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  [<img  align="center"  src="[https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chaoshero5567&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10](https://trophygithubreadmelang.cybee.dpdns.org/?username=Chaoshero5567&theme=radical)"/>](https://trophygithubreadmelang.cybee.dpdns.org/?username=Chaoshero5567&theme=radical)
   
   </td>
 </tr>
