@@ -3,11 +3,6 @@
 - 🎉 &nbsp; February (19 y/o)
 - 🏠 &nbsp; Living in Germany 
 
-<br><br>
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/677033724285812740.png">
-</p>
-<br>
 
 ### 💻 My Stats
 <br>
